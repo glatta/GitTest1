@@ -1,0 +1,11 @@
+# Don't track content of these folders
+/.settings
+/bin
+
+
+
+# Compiled source #
+###################
+*.class
+*.exe
+
